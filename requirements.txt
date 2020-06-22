@@ -3,3 +3,4 @@ numpy
 requests
 flask
 bs4
+xlrd
